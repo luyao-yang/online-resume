@@ -1,16 +1,16 @@
 basic:
-  name: Foo Bar                      # name
-  title: Backend Developer           # job title
+  name: Luyao Yang                      # name
+  title: Ph.D. candidate           # job title
   avatar:
     show: true                       # show or hide avatar
     path: /assets/images/profile.png # avatar file path
 
 contact:
   # meta
-  location: Beijing, China # location
-  email: me@example.com    # email address
-  phone: +86-111-2222-3333 # phone number, format is "+[Country Code] [Area Code (if applicable)] [Local Phone Number]"
-  website: example.com     # site URL without schema, like example.com, will automatically prepand "https://"
+  location: Thuwal, KSA # location
+  email: luyao.yang@kaust.edu.sa    # email address
+  # phone: +86-111-2222-3333 # phone number, format is "+[Country Code] [Area Code (if applicable)] [Local Phone Number]"
+  website: https://luyao-yang.github.io/online-resume/     # site URL without schema, like example.com, will automatically prepand "https://"
 
   gender:                  # gender or pronoun
   birthday:                # birthday
@@ -83,10 +83,9 @@ profile:
   order: 1
   title: Profile
   description: |
-    The profile section in a resume is a brief summary of the applicant's skills, qualifications, and experience. The purpose of this section is to provide a snapshot of the applicant's professional background and highlight their most relevant accomplishments and strengths. It may include information such as the applicant's career objectives, years of experience, areas of expertise, and key achievements.
-
-    A well-crafted profile section can help to grab the attention of potential employers and encourage them to read on and learn more about the applicant's qualifications and experience.
-
+    I am a second-year PhD student in Computer Science at the King Abdullah University of Science and Technology (KAUST). 
+    I am fortunate to be supervised by the esteemed Prof. Basem Shihada. Prior to my Ph.D. studies, I obtained my undergraduate degree from the University of Electronic Science and Technology of China (UESTC) in 2021, 
+    and my Master's degree in Computer Science from KAUST in 2022. My research interests lie at the intersection of emerging technologies, focusing on areas such as wearable computing in healthcare and sports. 
 experience:
   show: true
   order: 2
