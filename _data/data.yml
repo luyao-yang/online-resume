@@ -10,7 +10,7 @@ contact:
   location: Thuwal, KSA # location
   email: luyao.yang@kaust.edu.sa    # email address
   # phone: +86-111-2222-3333 # phone number, format is "+[Country Code] [Area Code (if applicable)] [Local Phone Number]"
-  website: https://luyao-yang.github.io/online-resume/     # site URL without schema, like example.com, will automatically prepand "https://"
+  # website: https://luyao-yang.github.io/online-resume/     # site URL without schema, like example.com, will automatically prepand "https://"
 
   gender:                  # gender or pronoun
   birthday:                # birthday
@@ -197,7 +197,7 @@ skill:
         - Skill I
 
 education:
-  show: true
+  show: false
   order: 5
   title: Education
   description: |
@@ -227,7 +227,7 @@ education:
         + Second
 
 certificate:
-  show: true
+  show: false
   order: 6
   title: Certificates
   description: |
@@ -257,27 +257,19 @@ publication:
   show: true
   order: 7
   title: Publications
-  description: |
-    The publication section in a resume is a dedicated section where you can showcase any publications that you have authored or contributed to. This section is particularly relevant for individuals in academic or research fields, but can also be relevant for individuals in other fields who have published articles or papers.
-
-    Publications can include academic journal articles, conference papers, book chapters, reports, or other written works. In this section, you should list the title of the publication, the names of any co-authors, the name of the publication or conference, the date of publication, and any other relevant details.
-
-    If you have a long list of publications, you may want to consider including only the most relevant or significant publications on your resume. Alternatively, you could create a separate publication list and provide it as a separate document, either in your application materials or upon request.
-
-    Including a publication section in your resume can help demonstrate your expertise and credibility in your field, and can help you stand out from other candidates. However, if you do not have any publications to list, it is not necessary to include this section in your resume.
-
+  # description: |
   items:
-    - title: Example Publication in Action
-      authors: Foo Bar
-      conference: Foobar, 2019
-      link: '#'
-    - title: The Art of Example Publication
-      authors: Foo Bar
-      conference: Foobar, 2019
-      link:
+    - title: Intelligent wearable systems: Opportunities and challenges in health and sports
+      authors: Luyao Yang, Osama Amin, Basem Shihada
+      conference: ACM Computing Surveys
+      link: 'https://dl.acm.org/doi/full/10.1145/3648469'
+    # - title: The Art of Example Publication
+    #   authors: Foo Bar
+    #   conference: Foobar, 2019
+    #   link:
 
 award:
-  show: true
+  show: false
   order: 8
   title: Awards
   description: |
@@ -302,7 +294,7 @@ award:
         It's my Example Awared Two by Example.
 
 patent:
-  show: true
+  show: false
   order: 9
   title: Patents
   description: |
@@ -337,7 +329,7 @@ organization:
     This section can be especially valuable for candidates seeking positions in the non-profit sector, social work, or community engagement roles, where experience in social or cultural organizations can demonstrate a genuine passion for social causes and a willingness to work collaboratively towards social change. However, it is important to only include organizations that are relevant to the job you are applying for, and avoid listing organizations that may be controversial or potentially offensive.
 
 language:
-  show: true
+  show: false
   order: 11
   title: Languages
   description: |
