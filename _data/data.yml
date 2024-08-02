@@ -87,7 +87,7 @@ profile:
     I am fortunate to be supervised by the esteemed Prof. Basem Shihada. Prior to my Ph.D. studies, I obtained my undergraduate degree from the University of Electronic Science and Technology of China (UESTC) in 2021, 
     and my Master's degree in Computer Science from KAUST in 2022. My research interests lie at the intersection of emerging technologies, focusing on areas such as wearable computing in healthcare and sports. 
 experience:
-  show: true
+  show: false
   order: 2
   title: Experiences
   description: |
@@ -120,31 +120,30 @@ project:
   show: true
   order: 3
   title: Projects
-  description: |
-    The project section in a resume is a section where you can highlight any significant projects that you have completed during your education, work experience, or personal endeavors. This section provides a detailed description of your projects that can showcase your skills, abilities, and achievements.
+  # description: |
+  #   The project section in a resume is a section where you can highlight any significant projects that you have completed during your education, work experience, or personal endeavors. This section provides a detailed description of your projects that can showcase your skills, abilities, and achievements.
 
-    In this section, you should include the name of the project, the role you played in the project, the duration, the tools and technologies you used, the objective of the project, and the outcome or result achieved. You can also include any relevant metrics or data that demonstrate the impact of the project.
+  #   In this section, you should include the name of the project, the role you played in the project, the duration, the tools and technologies you used, the objective of the project, and the outcome or result achieved. You can also include any relevant metrics or data that demonstrate the impact of the project.
 
-    The project section is especially useful for candidates with limited work experience or those looking to highlight specific skills or accomplishments that may not be apparent in other parts of their resume. It can also be beneficial for candidates in technical or creative fields, where projects play a significant role in showcasing their capabilities.
+  #   The project section is especially useful for candidates with limited work experience or those looking to highlight specific skills or accomplishments that may not be apparent in other parts of their resume. It can also be beneficial for candidates in technical or creative fields, where projects play a significant role in showcasing their capabilities.
 
   items:
-    - name: Personal project
+    - name: Oxygen Uptake Estimation and Interpretation using Temporal Fusion Networks
       link: '#'
       tags:
-      date: 2015 - 2017
+      date: 2023
       description: |
-        Personal project description...
-        + First
-        + Second
+        Accurate assessment of oxygen uptake ($\mathrm{VO}_2$), a vital marker of cardiorespiratory and exercise capacity, is traditionally limited to specialized labs with costly equipment. This study develops a Temporal Fusion Network (TFN) approach utilizing easily accessible physiological parameters such as heart rate, heart rate reserve, minute ventilation, tidal volume, and breathing frequency. 
 
-    - name: OSS project
+    - name: Real-Time Freezing of Gait Detection
       link:
-      tags: committer
+      # tags: committer
       date:
       description: |
-        OSS project description...
-        + First
-        + Second
+      Freezing of gait (FOG) represents a critical and debilitating symptom of Parkinson's disease, posing significant challenges in patient mobility and safety. Numerous research efforts have focused on predicting the onset of FOG using wearable sensors and computational aids. However, the unpredictability and brief nature of FOG episodes complicate the ability to predict their onset in real-time, rendering timely detection a complex goal.
+        # OSS project description...
+        # + First
+        # + Second
 
 skill:
   show: true
