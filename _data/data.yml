@@ -118,7 +118,7 @@ experience:
 
 project:
   show: true
-  order: 3
+  order: 2
   title: Projects
   # description: |
   #   The project section in a resume is a section where you can highlight any significant projects that you have completed during your education, work experience, or personal endeavors. This section provides a detailed description of your projects that can showcase your skills, abilities, and achievements.
@@ -254,7 +254,7 @@ certificate:
 
 publication:
   show: true
-  order: 7
+  order: 3
   title: Publications
   # description: |
   items:
