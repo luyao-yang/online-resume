@@ -260,7 +260,7 @@ publication:
   title: Publications
   # description: |
   items:
-    - title: Intelligent wearable systems: Opportunities and challenges in health and sports
+    - title: 'Intelligent wearable systems: Opportunities and challenges in health and sports'
       authors: Luyao Yang, Osama Amin, Basem Shihada
       conference: ACM Computing Surveys
       link: 'https://dl.acm.org/doi/full/10.1145/3648469'
