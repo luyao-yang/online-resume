@@ -26,7 +26,6 @@
             {%- else %}
             <span>{{ item.name }}</span>
             {%- endif %}
-            <img src="images/profile.jpg" alt="Project Image">
             {%- if item.tags %}
             <small>[{{ item.tags }}]</small>
             {%- endif %}
@@ -43,6 +42,7 @@
         <div class="description markdown">
           {{ item.description | markdownify }}
         </div>
+        <img src="images/profile.jpg" alt="Project Image">
         {%- endif %}
         {%- endif %}
 
