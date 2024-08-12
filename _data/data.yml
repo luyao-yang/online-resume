@@ -130,12 +130,20 @@ project:
   #   The project section is especially useful for candidates with limited work experience or those looking to highlight specific skills or accomplishments that may not be apparent in other parts of their resume. It can also be beneficial for candidates in technical or creative fields, where projects play a significant role in showcasing their capabilities.
 
   items:
+    # - name: Oxygen Uptake Estimation and Interpretation using Temporal Fusion Networks
+    #   link: '#'
+    #   tags:
+    #   date: 2023
+    #   description: |
+        # Accurate assessment of oxygen uptake VO2, a vital marker of cardiorespiratory and exercise capacity, is traditionally limited to specialized labs with costly equipment. This study develops a Temporal Fusion Network (TFN) approach utilizing easily accessible physiological parameters such as heart rate, heart rate reserve, minute ventilation, tidal volume, and breathing frequency. 
+
     - name: Oxygen Uptake Estimation and Interpretation using Temporal Fusion Networks
       link: '#'
-      tags:
+      tags: []
       date: 2023
+      image: profile.jpg
       description: |
-        Accurate assessment of oxygen uptake VO2, a vital marker of cardiorespiratory and exercise capacity, is traditionally limited to specialized labs with costly equipment. This study develops a Temporal Fusion Network (TFN) approach utilizing easily accessible physiological parameters such as heart rate, heart rate reserve, minute ventilation, tidal volume, and breathing frequency. 
+        Accurate assessment of oxygen uptake VO2, a vital marker of cardiorespiratory and exercise capacity, is traditionally limited to specialized labs with costly equipment. This study develops a Temporal Fusion Network (TFN) approach utilizing easily accessible physiological parameters such as heart rate, heart rate reserve, minute ventilation, tidal volume, and breathing frequency.
 
     - name: Real-Time Freezing of Gait Detection
       link:
