@@ -254,7 +254,7 @@ certificate:
 
 publication:
   show: true
-  order: 3
+  order: 4
   title: Publications and Talks
   # description: |
   items:
