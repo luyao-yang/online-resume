@@ -87,6 +87,8 @@ profile:
     
     ### My research interests lie at the intersection of emerging technologies, focusing on areas such as **wearable computing** in **healthcare** and **sports**. 
 
+    ### If you want to discuss research with me, feel free to write me an email. 
+
 project:
   show: true
   order: 2
@@ -111,7 +113,7 @@ project:
         Accurate assessment of oxygen uptake (VO2) - a vital marker of cardiorespiratory and exercise capacity - is traditionally limited to specialized labs with costly equipment. This study develops a Temporal Fusion Network (TFN) approach that can estimate VO2 using easily accessible physiological parameters such as heart rate, heart rate reserve, minute ventilation, tidal volume, and breathing frequency. This innovative method provides a cost-effective and accessible solution for evaluating cardiorespiratory fitness outside of specialized lab settings.
 
     - name: Glycan Gene Signatures Enable Accurate Cancer Identification
-      author: Jing Kai, **Luyao Yang**, Ayman F. AbuElela1, Alyaa M. Abdel-Haleem, Asma. AlAmoodi, Abdulghani A. Bin Nafisah, AlFadel M. AlShaibani, Ali S. Alzahrani3, Vincenzo Lagani, David Gomez-Cabrero, Xin Gao, and Jasmeen S. Merzaban1
+      author: Jing Kai, Luyao Yang, Ayman F. AbuElela1, Alyaa M. Abdel-Haleem, Asma. AlAmoodi, Abdulghani A. Bin Nafisah, AlFadel M. AlShaibani, Ali S. Alzahrani3, Vincenzo Lagani, David Gomez-Cabrero, Xin Gao, and Jasmeen S. Merzaban1
       link: '#'
       # tags: []
       date: 2022
