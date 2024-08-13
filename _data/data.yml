@@ -144,6 +144,7 @@ experience:
       tags: Remote Visiting students
       date: 2019.6-2019-9
       role: Research Assistant
+      location: Remote
       description: |
         Enhanced 2D human pose recognition using graph networks
         
