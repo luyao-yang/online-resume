@@ -108,14 +108,13 @@ project:
       description: |
         Accurate assessment of oxygen uptake (VO2) - a vital marker of cardiorespiratory and exercise capacity - is traditionally limited to specialized labs with costly equipment. This study develops a Temporal Fusion Network (TFN) approach that can estimate VO2 using easily accessible physiological parameters such as heart rate, heart rate reserve, minute ventilation, tidal volume, and breathing frequency. This innovative method provides a cost-effective and accessible solution for evaluating cardiorespiratory fitness outside of specialized lab settings.
 
-    - name: Oxygen Uptake Estimation and Interpretation using Temporal Fusion Networks
+    - name: Glycan Gene Signatures Enable Accurate Cancer Identification
       link: '#'
       # tags: []
       date: 2022
       image: '/assets/images/project0.png'
       description: |
-        Glycan patterns undergo distinct changes during cancer progression. Using machine learning, we have decoded unique glycosyltransferase (GT) gene expression signatures that can identify 27 different cancers with 98% accuracy. Our classifiers, built on the expression patterns of 71 or fewer GT genes, can differentiate cancer from normal tissue, distinguish cancer types, and identify subtypes of breast cancer and glioma. The models have been validated against independent databases and outperform existing cancer subtyping methods. This highlights the potential of GT genes as ideal biomarkers for cancer diagnosis and prognosis, paving the way for future translational applications.
-
+        Glycan gene expression patterns can accurately identify cancer types and subtypes. Our machine learning models, built on just 71 glycosyltransferase genes, can distinguish 27 cancers with 98% accuracy, outperforming existing methods. This demonstrates the potential of glycan genes as powerful biomarkers for cancer diagnosis and prognosis.
  
 experience:
   show: true
