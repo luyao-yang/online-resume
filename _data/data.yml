@@ -39,7 +39,7 @@ contact:
   tryhackme:               # username          | https://tryhackme.com/p/username
 
   # academic
-  googlescholar:           # username          | https://scholar.google.com/citations?user=username
+  googlescholar: https://scholar.google.com/citations?user=RtFZ1HwAAAAJ&hl=en
   researchgate:            # username          | https://www.researchgate.net/profile/username
   kaggle:                  # username          | https://www.kaggle.com/username
   orcid:                   # id                | https://orcid.org/id
