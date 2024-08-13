@@ -115,13 +115,6 @@ small {
             height: auto;
             object-fit: contain; // Preserve aspect ratio and fit within the container
           }
-    
-          .item-image img {
-            max-width: 100%;
-            max-height: 200px; // Adjust this value to change the maximum height
-            height: auto;
-            object-fit: contain; // Preserve aspect ratio and fit within the container
-          }
         }
       }
 
