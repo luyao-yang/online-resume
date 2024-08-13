@@ -44,14 +44,13 @@
         </div>
         {%- endif %}
         {%- endif %}
-        <div>
-          {{ item.image }}
-<!--         <img src="images/profile.jpg" alt="Project Image"> -->
+        <div class="item-image">
+          <!-- Render the image here -->
+          {% if item.image %}
+            <img src="{{ item.image }}" alt="{{ item.name }}">
+          {% endif %}
         </div>
-        <div>
-          {{ item.image }}
-<!--         <img src="images/profile.jpg" alt="Project Image"> -->
-        </div>
+
 
       </div>
       {%- endfor %}
