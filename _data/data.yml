@@ -83,7 +83,7 @@ profile:
   order: 1
   title: Profile
   description: |
-    ### I am a second-year PhD student in Computer Science at the King Abdullah University of Science and Technology ([KAUST](https://www.kaust.edu.sa/en)). I am fortunate to be supervised by the esteemed Prof. Basem Shihada. Prior to my Ph.D. studies, I obtained my undergraduate degree from the University of Electronic Science and Technology of China (UESTC) in 2021, and my Master's degree in Computer Science from KAUST in 2022. 
+    ### I am a second-year PhD student in Computer Science at the King Abdullah University of Science and Technology ([KAUST]('https://www.kaust.edu.sa/en')). I am fortunate to be supervised by the esteemed [Prof. Basem Shihada](). Prior to my Ph.D. studies, I obtained my undergraduate degree from the University of Electronic Science and Technology of China (UESTC) in 2021, and my Master's degree in Computer Science from KAUST in 2022. 
     
     ### My research interests lie at the intersection of emerging technologies, focusing on areas such as **wearable computing** in **healthcare** and **sports**. 
   name: KAUST
