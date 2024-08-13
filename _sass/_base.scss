@@ -107,13 +107,13 @@ small {
           .description {
             margin-bottom: 0;
           }
-          .item-image {
-            margin-top: 1rem;
-            text-align: center;
+         .item-image {
+            display: block; /* Add this line */
+            margin: 1rem auto 0 auto; /* Update this line */
             max-width: 100%;
-            max-height: 400px; // Adjust this value to change the maximum height
+            max-height: 340px; /* Adjust this value to change the maximum height */
             height: auto;
-            object-fit: contain; // Preserve aspect ratio and fit within the container
+            object-fit: contain; /* Preserve aspect ratio and fit within the container */
           }
         }
       }
