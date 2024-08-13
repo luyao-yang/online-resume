@@ -87,8 +87,8 @@ profile:
     
     ### My research interests lie at the intersection of emerging technologies, focusing on areas such as **wearable computing** in **healthcare** and **sports**. 
     link:
-    url: https://www.example.com
-    text: KAUST
+      url: https://www.example.com
+      text: KAUST
 experience:
   show: false
   order: 2
