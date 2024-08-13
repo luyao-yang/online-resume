@@ -86,35 +86,6 @@ profile:
     ### I am a second-year PhD student in Computer Science at the King Abdullah University of Science and Technology ([KAUST]('https://www.kaust.edu.sa/en/')). I am fortunate to be supervised by the esteemed [Prof. Basem Shihada](https://www.shihada.com/) and [Dr. Osama Amin](https://cemse.kaust.edu.sa/people/person/osama-amin). Prior to my Ph.D. studies, I obtained my undergraduate degree from the University of Electronic Science and Technology of China ([UESTC](https://en.uestc.edu.cn/)) in 2021, and my Master's degree in Computer Science from [KAUST](https://www.kaust.edu.sa/en/) in 2022. 
     
     ### My research interests lie at the intersection of emerging technologies, focusing on areas such as **wearable computing** in **healthcare** and **sports**. 
-experience:
-  show: false
-  order: 2
-  title: Experiences
-  description: |
-    The experiences section in a resume is a section where you list your previous work experiences and accomplishments. It typically includes information about your previous job titles, companies you worked for, the dates of your employment, and your key responsibilities and achievements in each role. This section is important because it gives potential employers a sense of your work history and the skills and expertise you have developed over time. It can also help demonstrate your ability to contribute value to a new organization based on your past achievements.
-
-  items:
-    - company: Second Company
-      link: '#'
-      tags: Full-time
-      date: 2018.03 - 2019.03
-      role: Backend Developer
-      location: Beijing
-      description: |
-        Your key responsibilities and achievements in the company.
-        + First
-        + Second
-
-    - company: First Company
-      link:
-      tags: Part-time, remote
-      date: 2017.03 - 2018.03
-      role: Backend Developer
-      location: Beijing
-      description: |
-        Your key responsibilities and achievements in the company.
-        + First
-        + Second
 
 project:
   show: true
@@ -135,9 +106,45 @@ project:
       date: 2023
       image: '/assets/images/project1.png'
       description: |
-        Accurate assessment of oxygen uptake VO2, a vital marker of cardiorespiratory and exercise capacity, is traditionally limited to specialized labs with costly equipment. This study develops a Temporal Fusion Network (TFN) approach utilizing easily accessible physiological parameters such as heart rate, heart rate reserve, minute ventilation, tidal volume, and breathing frequency.   Accurate assessment of oxygen uptake VO2, a vital marker of cardiorespiratory and exercise capacity, is traditionally limited to specialized labs with costly equipment. This study develops a Temporal Fusion Network (TFN) approach utilizing easily accessible physiological parameters such as heart rate, heart rate reserve, minute ventilation, tidal volume, and breathing frequency.
+        Accurate assessment of oxygen uptake (VO2) - a vital marker of cardiorespiratory and exercise capacity - is traditionally limited to specialized labs with costly equipment. This study develops a Temporal Fusion Network (TFN) approach that can estimate VO2 using easily accessible physiological parameters such as heart rate, heart rate reserve, minute ventilation, tidal volume, and breathing frequency. This innovative method provides a cost-effective and accessible solution for evaluating cardiorespiratory fitness outside of specialized lab settings.
 
+    - name: Oxygen Uptake Estimation and Interpretation using Temporal Fusion Networks
+      link: '#'
+      # tags: []
+      date: 2022
+      image: '/assets/images/project0.png'
+      description: |
+        Glycan patterns undergo distinct changes during cancer progression. Using machine learning, we have decoded unique glycosyltransferase (GT) gene expression signatures that can identify 27 different cancers with 98% accuracy. Our classifiers, built on the expression patterns of 71 or fewer GT genes, can differentiate cancer from normal tissue, distinguish cancer types, and identify subtypes of breast cancer and glioma. The models have been validated against independent databases and outperform existing cancer subtyping methods. This highlights the potential of GT genes as ideal biomarkers for cancer diagnosis and prognosis, paving the way for future translational applications.
 
+ 
+experience:
+  show: true
+  order: 3
+  title: Experiences
+  # description: |
+  #   The experiences section in a resume is a section where you list your previous work experiences and accomplishments. It typically includes information about your previous job titles, companies you worked for, the dates of your employment, and your key responsibilities and achievements in each role. This section is important because it gives potential employers a sense of your work history and the skills and expertise you have developed over time. It can also help demonstrate your ability to contribute value to a new organization based on your past achievements.
+
+  items:
+    # - company: K
+    #   link: '#'
+    #   tags: Full-time
+    #   date: 2018.03 - 2019.03
+    #   role: Backend Developer
+    #   location: Beijing
+    #   description: |
+    #     Your key responsibilities and achievements in the company.
+    #     + First
+    #     + Second
+
+    - company: National University of Singapore: NUS
+      link:
+      tags: Summer workshop
+      date: 2018.6-2018-8
+      role: Code writer
+      location: Singapore
+      description: |
+        Use transfer learning to help the car identify the type of cat on the track
+        
 skill:
   show: false
   order: 4
