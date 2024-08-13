@@ -257,7 +257,7 @@ publication:
       conference: ACM Computing Surveys
       link: 'https://dl.acm.org/doi/full/10.1145/3648469'
       image: '/assets/images/pub1.png'
-    - title: Wearable AI: Enhancing Sports Convenience
+    - title: 'Wearable AI: Enhancing Sports Convenience'
       authors: Luyao Yang, Osama Amin, Basem Shihada
       conference: KAUST, Thuwal, 2023
       link:
