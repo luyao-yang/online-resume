@@ -93,9 +93,9 @@ project:
   title: Projects
   items:
     - name: Real-Time Freezing of Gait Detection
-      author: Luyao Yang, Osama Amin, Basem Shihada
       link: '#'
       # tags: committer
+      author: Luyao Yang, Osama Amin, Azmy Faisal, Basem Shihada
       date: 2024
       image: '/assets/images/project1.png'
       description: |
