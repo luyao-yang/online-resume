@@ -137,6 +137,14 @@ experience:
     #     Your key responsibilities and achievements in the company.
     #     + First
     #     + Second
+    - company: University of Illinois Chicago
+      link:
+      tags: Remote Visiting students
+      date: 2019.6-2019-9
+      role: Research Assistant
+      description: |
+        Enhanced 2D human pose recognition using graph networks
+        
 
     - company: National University of Singapore
       link:
