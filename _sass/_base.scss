@@ -107,6 +107,15 @@ small {
           .description {
             margin-bottom: 0;
           }
+          .item-image {
+            margin-top: 1rem;
+            text-align: center;
+          }
+    
+          .item-image img {
+            max-width: 50%;
+            height: auto;
+          }
         }
       }
 
