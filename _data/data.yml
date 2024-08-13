@@ -125,14 +125,14 @@ project:
   items:
     - name: Oxygen Uptake Estimation and Interpretation using Temporal Fusion Networks
       link: '#'
-      tags: []
+      # tags: []
       date: 2023
       image: '/assets/images/project1.jpg'
       description: |
         Accurate assessment of oxygen uptake VO2, a vital marker of cardiorespiratory and exercise capacity, is traditionally limited to specialized labs with costly equipment. This study develops a Temporal Fusion Network (TFN) approach utilizing easily accessible physiological parameters such as heart rate, heart rate reserve, minute ventilation, tidal volume, and breathing frequency.   Accurate assessment of oxygen uptake VO2, a vital marker of cardiorespiratory and exercise capacity, is traditionally limited to specialized labs with costly equipment. This study develops a Temporal Fusion Network (TFN) approach utilizing easily accessible physiological parameters such as heart rate, heart rate reserve, minute ventilation, tidal volume, and breathing frequency.
 
     - name: Real-Time Freezing of Gait Detection
-      link:
+      link:'#'
       # tags: committer
       date: 2024
       image: '/assets/images/project2.jpg'
