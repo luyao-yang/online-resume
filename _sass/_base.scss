@@ -171,7 +171,8 @@ small {
       }
       .project-date {
         color: $text-third-color;
-        width: 6rem;
+        width: 4rem;
+        display: flex;
       }
     }
   }
