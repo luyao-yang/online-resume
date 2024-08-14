@@ -168,7 +168,10 @@ small {
       .location,
       .degree {
         color: $text-third-color;
-        margin-left: 10rem;
+      }
+      .date {
+        color: $text-third-color;
+        width: 10rem
       }
     }
   }
