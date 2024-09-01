@@ -271,6 +271,11 @@ publication:
   title: Publications and Talks
   # description: |
   items:
+    - title: 'Real-Time Freezing of Gait Detection: Harnessing Advanced AI for Better Mobility'
+      authors: Luyao Yang, Osama Amin, Basem Shihada
+      conference: Nara, Japan, 2024
+      link:
+      image: '/assets/images/fog.png'
     - title: 'Intelligent wearable systems: Opportunities and challenges in health and sports'
       authors: Luyao Yang, Osama Amin, Basem Shihada
       conference: ACM Computing Surveys 2024
