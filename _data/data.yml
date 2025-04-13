@@ -94,6 +94,7 @@ project:
   order: 2
   title: Projects
   items:
+  
    - name: FoG-Track: Semi-supervised Real-Time Response to Freezing of Gait (ACM Transactions on Computing for Healthcare, under review)
      author: Luyao Yang, Osama Amin, Basem Shihada
      link: '#'
