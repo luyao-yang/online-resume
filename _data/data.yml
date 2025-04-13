@@ -95,13 +95,12 @@ project:
   title: Projects
   items:
    - name: FoG-Track: Semi-supervised Real-Time Response to Freezing of Gait (ACM Transactions on Computing for Healthcare, under review)
-      author: Luyao Yang, Osama Amin, Basem Shihada
-      link: '#'
-      # tags: []
-      date: 2025
-      image: '/assets/images/project3.png'
-      description: |
-        Freezing of Gait (FoG) is a common problem for people with Parkinson's disease. This study presents a semi-supervised learning method that predicts FoG by analyzing gait patterns and using unlabeled sensor data, achieving high accuracy in real-time detection.
+     author: Luyao Yang, Osama Amin, Basem Shihada
+     link: '#'
+     date: 2025
+     image: '/assets/images/project3.png'
+     description: |
+       Freezing of Gait (FoG) is a common problem for people with Parkinson's disease. This study presents a semi-supervised learning method that predicts FoG by analyzing gait patterns and using unlabeled sensor data, achieving high accuracy in real-time detection.
    
     - name: Oxygen Uptake Estimation and Interpretation using Temporal Fusion Networks (ACM Transactions on Computing for Healthcare, 2025)
       author: Luyao Yang, Osama Amin, Azmy Faisal, Basem Shihada
