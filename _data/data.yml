@@ -313,7 +313,7 @@ publication:
   title: Publications and Talks
   # description: |
   items:
-    - title: 'name: Oxygen Uptake Estimation and Interpretation using Temporal Fusion Networks
+    - title: 'Oxygen Uptake Estimation and Interpretation using Temporal Fusion Networks'
       authors: Luyao Yang, Osama Amin, Azmy Faisal, Basem Shihada
       conference: ACM Transactions on Computing for Healthcare, 2025
       # link: 'https://dl.acm.org/doi/full/10.1145/3648469'
