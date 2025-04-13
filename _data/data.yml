@@ -112,7 +112,7 @@ project:
         Accurate assessment of oxygen uptake (VO2) - a vital marker of cardiorespiratory and exercise capacity - is traditionally limited to specialized labs with costly equipment. This study develops a Temporal Fusion Network (TFN) approach that can estimate VO2 using easily accessible physiological parameters such as heart rate, heart rate reserve, minute ventilation, tidal volume, and breathing frequency. This innovative method provides a cost-effective and accessible solution for evaluating cardiorespiratory fitness outside of specialized lab settings.
 
     - name: Real-Time Freezing of Gait Detection (IEEE Healthcom, 2024)
-      link: '#'
+      link: 'https://ieeexplore.ieee.org/abstract/document/10880721'
       author: Luyao Yang, Osama Amin, Azmy Faisal, Basem Shihada
       date: 2024
       image: '/assets/images/project1.png'
@@ -313,7 +313,7 @@ publication:
   title: Publications and Talks
   # description: |
   items:
-    - title: 'Oxygen Uptake Estimation and Interpretation using Temporal Fusion Networks'
+    - title: 'Oxygen Uptake Estimation During Cardiopulmonary Exercise Testing Using Temporal Fusion Networks'
       authors: Luyao Yang, Osama Amin, Azmy Faisal, Basem Shihada
       conference: ACM Transactions on Computing for Healthcare, 2025
       # link: 'https://dl.acm.org/doi/full/10.1145/3648469'
