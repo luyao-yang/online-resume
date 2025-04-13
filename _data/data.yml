@@ -94,7 +94,25 @@ project:
   order: 2
   title: Projects
   items:
-    - name: Real-Time Freezing of Gait Detection (Accepted by IEEE Healthcom 2024)
+   - name: FoG-Track: Semi-supervised Real-Time Response to Freezing of Gait (ACM Transactions on Computing for Healthcare, under review)
+      author: Luyao Yang, Osama Amin, Basem Shihada
+      link: '#'
+      # tags: []
+      date: 2025
+      image: '/assets/images/project3.png'
+      description: |
+        Freezing of Gait (FoG) is a common problem for people with Parkinson's disease. This study presents a semi-supervised learning method that predicts FoG by analyzing gait patterns and using unlabeled sensor data, achieving high accuracy in real-time detection.
+   
+    - name: Oxygen Uptake Estimation and Interpretation using Temporal Fusion Networks (ACM Transactions on Computing for Healthcare, 2025)
+      author: Luyao Yang, Osama Amin, Azmy Faisal, Basem Shihada
+      link: '#'
+      # tags: []
+      date: 2025
+      image: '/assets/images/project2.png'
+      description: |
+        Accurate assessment of oxygen uptake (VO2) - a vital marker of cardiorespiratory and exercise capacity - is traditionally limited to specialized labs with costly equipment. This study develops a Temporal Fusion Network (TFN) approach that can estimate VO2 using easily accessible physiological parameters such as heart rate, heart rate reserve, minute ventilation, tidal volume, and breathing frequency. This innovative method provides a cost-effective and accessible solution for evaluating cardiorespiratory fitness outside of specialized lab settings.
+    
+    - name: Real-Time Freezing of Gait Detection (IEEE Healthcom, 2024)
       link: '#'
       # tags: committer
       author: Luyao Yang, Osama Amin, Azmy Faisal, Basem Shihada
@@ -103,16 +121,7 @@ project:
       description: |
         Freezing of gait (FOG) represents a critical and debilitating symptom of Parkinson's disease, posing significant challenges in patient mobility and safety. Numerous research efforts have focused on predicting the onset of FOG using wearable sensors and computational aids. However, the unpredictability and brief nature of FOG episodes complicate the ability to predict their onset in real-time, rendering timely detection a complex goal.
 
-    - name: Oxygen Uptake Estimation and Interpretation using Temporal Fusion Networks (ACM Transactions on Computing for Healthcare (Under Review))
-      author: Luyao Yang, Osama Amin, Azmy Faisal, Basem Shihada
-      link: '#'
-      # tags: []
-      date: 2023
-      image: '/assets/images/project2.png'
-      description: |
-        Accurate assessment of oxygen uptake (VO2) - a vital marker of cardiorespiratory and exercise capacity - is traditionally limited to specialized labs with costly equipment. This study develops a Temporal Fusion Network (TFN) approach that can estimate VO2 using easily accessible physiological parameters such as heart rate, heart rate reserve, minute ventilation, tidal volume, and breathing frequency. This innovative method provides a cost-effective and accessible solution for evaluating cardiorespiratory fitness outside of specialized lab settings.
-
-    - name: Glycan Gene Signatures Enable Accurate Cancer Identification (Cancer Discovery (Under Review))
+    - name: Glycan Gene Signatures Enable Accurate Cancer Identification (Cell Report (Under Review))
       author: Jing Kai, Luyao Yang, Ayman F. AbuElela1, Alyaa M. Abdel-Haleem, Asma. AlAmoodi, Abdulghani A. Bin Nafisah, AlFadel M. AlShaibani, Ali S. Alzahrani3, Vincenzo Lagani, David Gomez-Cabrero, Xin Gao, and Jasmeen S. Merzaban1
       link: '#'
       # tags: []
