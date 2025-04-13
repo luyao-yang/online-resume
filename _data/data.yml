@@ -95,7 +95,7 @@ project:
   title: Projects
   items:
   
-    - name: FoG
+    - name: FoG-Track Semi-supervised Real-Time Response to Freezing of Gait
       link: '#'
       author: Luyao Yang, Osama Amin, Basem Shihada
       date: 2025
