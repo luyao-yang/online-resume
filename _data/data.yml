@@ -94,10 +94,8 @@ project:
   order: 2
   title: Projects
   items:
-  
     - name: FoG-Track: Semi-supervised Real-Time Response to Freezing of Gait (ACM Transactions on Computing for Healthcare, under review)
       link: '#'
-      # tags: committer
       author: Luyao Yang, Osama Amin, Basem Shihada
       date: 2025
       image: '/assets/images/project3.png'
@@ -107,15 +105,13 @@ project:
     - name: Oxygen Uptake Estimation and Interpretation using Temporal Fusion Networks (ACM Transactions on Computing for Healthcare, 2025)
       author: Luyao Yang, Osama Amin, Azmy Faisal, Basem Shihada
       link: '#'
-      # tags: []
       date: 2025
       image: '/assets/images/project2.png'
       description: |
         Accurate assessment of oxygen uptake (VO2) - a vital marker of cardiorespiratory and exercise capacity - is traditionally limited to specialized labs with costly equipment. This study develops a Temporal Fusion Network (TFN) approach that can estimate VO2 using easily accessible physiological parameters such as heart rate, heart rate reserve, minute ventilation, tidal volume, and breathing frequency. This innovative method provides a cost-effective and accessible solution for evaluating cardiorespiratory fitness outside of specialized lab settings.
-    
+
     - name: Real-Time Freezing of Gait Detection (IEEE Healthcom, 2024)
       link: '#'
-      # tags: committer
       author: Luyao Yang, Osama Amin, Azmy Faisal, Basem Shihada
       date: 2024
       image: '/assets/images/project1.png'
@@ -123,13 +119,48 @@ project:
         Freezing of gait (FOG) represents a critical and debilitating symptom of Parkinson's disease, posing significant challenges in patient mobility and safety. Numerous research efforts have focused on predicting the onset of FOG using wearable sensors and computational aids. However, the unpredictability and brief nature of FOG episodes complicate the ability to predict their onset in real-time, rendering timely detection a complex goal.
 
     - name: Glycan Gene Signatures Enable Accurate Cancer Identification (Cell Report (Under Review))
-      author: Jing Kai, Luyao Yang, Ayman F. AbuElela1, Alyaa M. Abdel-Haleem, Asma. AlAmoodi, Abdulghani A. Bin Nafisah, AlFadel M. AlShaibani, Ali S. Alzahrani3, Vincenzo Lagani, David Gomez-Cabrero, Xin Gao, and Jasmeen S. Merzaban1
+      author: Jing Kai, Luyao Yang, Ayman F. AbuElela, Alyaa M. Abdel-Haleem, Asma AlAmoodi, Abdulghani A. Bin Nafisah, AlFadel M. AlShaibani, Ali S. Alzahrani, Vincenzo Lagani, David Gomez-Cabrero, Xin Gao, and Jasmeen S. Merzaban
       link: '#'
-      # tags: []
       date: 2022
       image: '/assets/images/project0.png'
       description: |
         Glycan gene expression patterns can accurately identify cancer types and subtypes. Our machine learning models, built on just 71 glycosyltransferase genes, can distinguish 27 cancers with 98% accuracy, outperforming existing methods. This demonstrates the potential of glycan genes as powerful biomarkers for cancer diagnosis and prognosis.
+  
+    # - name: FoG-Track: Semi-supervised Real-Time Response to Freezing of Gait (ACM Transactions on Computing for Healthcare, under review)
+    #   link: '#'
+    #   # tags: committer
+    #   author: Luyao Yang, Osama Amin, Basem Shihada
+    #   date: 2025
+    #   image: '/assets/images/project3.png'
+    #   description: |
+    #     Freezing of gait (FOG) represents a critical and debilitating symptom of Parkinson's disease, posing significant challenges in patient mobility and safety. Numerous research efforts have focused on predicting the onset of FOG using wearable sensors and computational aids. However, the unpredictability and brief nature of FOG episodes complicate the ability to predict their onset in real-time, rendering timely detection a complex goal.
+
+    # - name: Oxygen Uptake Estimation and Interpretation using Temporal Fusion Networks (ACM Transactions on Computing for Healthcare, 2025)
+    #   author: Luyao Yang, Osama Amin, Azmy Faisal, Basem Shihada
+    #   link: '#'
+    #   # tags: []
+    #   date: 2025
+    #   image: '/assets/images/project2.png'
+    #   description: |
+    #     Accurate assessment of oxygen uptake (VO2) - a vital marker of cardiorespiratory and exercise capacity - is traditionally limited to specialized labs with costly equipment. This study develops a Temporal Fusion Network (TFN) approach that can estimate VO2 using easily accessible physiological parameters such as heart rate, heart rate reserve, minute ventilation, tidal volume, and breathing frequency. This innovative method provides a cost-effective and accessible solution for evaluating cardiorespiratory fitness outside of specialized lab settings.
+    
+    # - name: Real-Time Freezing of Gait Detection (IEEE Healthcom, 2024)
+    #   link: '#'
+    #   # tags: committer
+    #   author: Luyao Yang, Osama Amin, Azmy Faisal, Basem Shihada
+    #   date: 2024
+    #   image: '/assets/images/project1.png'
+    #   description: |
+    #     Freezing of gait (FOG) represents a critical and debilitating symptom of Parkinson's disease, posing significant challenges in patient mobility and safety. Numerous research efforts have focused on predicting the onset of FOG using wearable sensors and computational aids. However, the unpredictability and brief nature of FOG episodes complicate the ability to predict their onset in real-time, rendering timely detection a complex goal.
+
+    # - name: Glycan Gene Signatures Enable Accurate Cancer Identification (Cell Report (Under Review))
+    #   author: Jing Kai, Luyao Yang, Ayman F. AbuElela1, Alyaa M. Abdel-Haleem, Asma. AlAmoodi, Abdulghani A. Bin Nafisah, AlFadel M. AlShaibani, Ali S. Alzahrani3, Vincenzo Lagani, David Gomez-Cabrero, Xin Gao, and Jasmeen S. Merzaban1
+    #   link: '#'
+    #   # tags: []
+    #   date: 2022
+    #   image: '/assets/images/project0.png'
+    #   description: |
+    #     Glycan gene expression patterns can accurately identify cancer types and subtypes. Our machine learning models, built on just 71 glycosyltransferase genes, can distinguish 27 cancers with 98% accuracy, outperforming existing methods. This demonstrates the potential of glycan genes as powerful biomarkers for cancer diagnosis and prognosis.
  
 experience:
   show: true
